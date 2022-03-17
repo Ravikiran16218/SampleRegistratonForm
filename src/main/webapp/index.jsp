@@ -1,7 +1,7 @@
 <html>
 <head>
 <script type="text/javascript" src="validate.js"></script>
-<title>Students, Register now!</title>
+<title>Register now!</title>
 </head>
 <body>
 <style>
